@@ -1,0 +1,74 @@
+_repo: Mons-Spes-et-novellae-aliae_64146
+_version: 0.0.1
+alternative_title: Mons Spes, et novellae aliae
+contributor:
+  translator:
+    agent_name: Avellanus, Arcadius
+    aliases:
+    - Mogyorossy, Arkad
+    - Mogyoróssy, Arkád
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '43799'
+    url: http://www.gutenberg.org/2009/agents/43799
+    wikipedia: https://en.wikipedia.org/wiki/Arcadius_Avellanus
+creator:
+  authors:
+  - agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+  - agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: https://en.wikipedia.org/wiki/John_Ruskin
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  - agent_name: Prentice, E. Parmalee (Ezra Parmalee)
+    alias: Prentice, Ezra Parmalee
+    birthdate: 1863
+    deathdate: 1955
+    gutenberg_agent_id: '52729'
+    url: http://www.gutenberg.org/2009/agents/52729
+  - agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64146'
+  lccn: '18008511'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mount Hope classics, vol. 2
+subjects:
+- !lcsh 'Latin language -- Readers'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: Mons Spes, ab E. P. Prentice -- Rex Avrel Rivi, a I. Ruskin -- Domvs
+  atqve mens, ab E. Bulwer Lytton -- Monile, a G. de Maupassant -- Ostivm Cl. V. de
+  Maletroit, a R. L. Stevenson -- Svppe tiarivm mergvlarvm, ab E. P. Prentice.
+title: Mons Spes, et novellæ aliæ
+url: http://www.gutenberg.org/ebooks/64146
