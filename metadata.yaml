@@ -1,5 +1,5 @@
 _repo: Mons-Spes-et-novellae-aliae_64146
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mons Spes, et novellae aliae
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '43799'
     url: http://www.gutenberg.org/2009/agents/43799
     wikipedia: https://en.wikipedia.org/wiki/Arcadius_Avellanus
+covers:
+- cover_type: archival
+  image_path: 64146-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -53,6 +56,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64146#Mons-Spes-et-novellae-aliae
 gutenberg_issued: '2020-12-28'
 gutenberg_type: Text
 identifiers:
